@@ -1,0 +1,10 @@
+.foot{
+    width: auto;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(210, 210, 192);
+    color: rgb(104, 74, 34);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

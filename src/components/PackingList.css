@@ -1,0 +1,14 @@
+.MainBody{
+    flex: 1;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(237, 237, 237);
+}
+
+.list{
+    display: grid;
+    grid-template-columns: repeat(6, 120px);
+    grid-template-rows: 50px ;
+    gap: 10px;
+}
